@@ -16,6 +16,13 @@ An intelligent, AI-powered Pull Request Review Agent that integrates with GitHub
 
 ## Setup Instructions
 
+### Quick Start (Root Directory)
+If you want to start both the frontend and backend with a single command:
+1. Run `npm install` in the root directory.
+2. Run `npm run dev`.
+
+This will start the backend on port 5000 and the frontend on port 5173/5174 concurrently.
+
 ### 1. Backend Setup
 1. Navigate to the `backend` directory.
 2. Run `npm install`.
